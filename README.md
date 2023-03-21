@@ -5,12 +5,12 @@
 ## **building**
 
 - you need a **QT(5)** development environment, make sure you have **libqt5-qtserialport-devel** or similar
-- **qmake** to (re)generate the Makefile (qmake-qt5)
+- **qmake** to generate the Makefile (qmake-qt5)
 - **make** to build brainsoup
 - your mileage will vary...
 
 ## **using**
-- boot you B* ***Brains*** in update mode, hold both buttons and power on
+- boot your B* ***Brains*** in update mode, hold both buttons and power on
 - start **brainsoup**, it should detect the USB serial port the ***Brains*** is using
 - download the S_NTHTR_BE.exe (v2.5.9) from the B* website
 - click "load .exe file" and pick the exe file you downloaded
