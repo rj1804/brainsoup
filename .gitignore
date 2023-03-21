@@ -1,0 +1,6 @@
+*.o
+moc_*
+.qmake*
+*.pro.user
+Makefile
+brainsoup
