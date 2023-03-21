@@ -1,6 +1,6 @@
 ## **intro**
 
-**brainSOUP** is a QT based updater B* ***BRAINS*** eurorack module. tested on Linux
+**brainSOUP** is a QT based updater for the B* ***BRAINS*** eurorack module. tested on Linux
 
 ![screenshot](screenshot.png?raw=true "screenshot")
 
