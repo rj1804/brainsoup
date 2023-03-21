@@ -2,6 +2,8 @@
 
 **brainSOUP** is a QT based updater B* ***BRAINS*** eurorack module. tested on Linux
 
+![screenshot](screenshot.png?raw=true "screenshot")
+
 ## **building**
 
 - you need a **QT(5)** development environment, make sure you have **libqt5-qtserialport-devel** or similar
